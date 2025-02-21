@@ -1,0 +1,3 @@
+C:\alxdr\wMbo2024101112\codeSuggesterWithAI\aiCodeSuggester\bin\Debug\net7.0\win-x64\publish\aiCodeSuggester.pdb
+C:\alxdr\wMbo2024101112\codeSuggesterWithAI\aiCodeSuggester\bin\Debug\net7.0\win-x64\publish\appsettings.json
+C:\alxdr\wMbo2024101112\codeSuggesterWithAI\aiCodeSuggester\bin\Debug\net7.0\win-x64\publish\aiCodeSuggester.exe
